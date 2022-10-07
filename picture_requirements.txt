@@ -1,0 +1,5 @@
+arrow.png-whatsapp send button
+password.png-zoom meeting password field box
+wrongpassword.png-wrong meeting password prompt
+zoomid.png- input box to enter meeting id
+
